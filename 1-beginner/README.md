@@ -1,7 +1,8 @@
 ## Networking Basics:
 [Cybrary Network+](https://www.cybrary.it/course/comptia-network-plus/) course.
 
-Do you know?
+|---------|
+| a | b|
 
 * OSI, TCP/IP model
 * IPv4/IPv6
