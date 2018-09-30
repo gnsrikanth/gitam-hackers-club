@@ -1,5 +1,14 @@
 ## Networking Basics:
 [Cybrary Network+](https://www.cybrary.it/course/comptia-network-plus/) course.
+
+Do you know?
+
+* OSI, TCP/IP model
+* IPv4/IPv6
+* Ping, Tracert
+* IP address, Subnetting
+* TCP/ UDP diffrences 
+* DNS, FTP, ARP
 ***
 ## Linux Fundamentals:
 [Cybrary Linux+](https://www.cybrary.it/course/comptia-linux-plus-archive/) course.
