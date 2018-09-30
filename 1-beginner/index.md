@@ -1,6 +1,7 @@
-### Networking Basics:
-* Module 1.1 - OSI and TCP/IP Models
-* Module 1.2 - Devices & Protocols in Relation to OSI Model
-* Module 1.3 
-
-[Cybrary.it network+](https://www.cybrary.it/course/comptia-network-plus/) course.
+## Networking Basics:
+Complete [Cybrary Network+](https://www.cybrary.it/course/comptia-network-plus/) course.
+***
+## Linux Fun
+Complete [Cybrary Linux+](https://www.cybrary.it/course/comptia-linux-plus-archive/) course.
+Try all commands in Linux from this [link](https://www.thegeekstuff.com/2010/11/50-linux-commands/)
+***
