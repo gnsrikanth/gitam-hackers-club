@@ -3,15 +3,15 @@ Complete [Cybrary Network+](https://www.cybrary.it/course/comptia-network-plus/)
 
 - OSI,TCP/IP model
 - TCP / UDP diffrences
- - HTTP, HTTPS, FTP, Telnet, SSH
- - Task: Try Putty in linux or SSH in windows
+  - HTTP, HTTPS, FTP, Telnet, SSH
+  - Task: Try Putty in linux or SSH in windows
 - Ports definition
- - [Commonly used ports](http://www.pearsonitcertification.com/articles/article.aspx?p=1868080)
+  - [Commonly used ports](http://www.pearsonitcertification.com/articles/article.aspx?p=1868080)
 - DHCP
 - Ping, Tracert
 - Netstat
 - Proxy, VPN and their diffrence
- - TOR and Proxy chains definitions
+  - TOR and Proxy chains definitions
 
 ***
 ## Linux Fundamentals:
