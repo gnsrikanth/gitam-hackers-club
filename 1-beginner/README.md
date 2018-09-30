@@ -1,15 +1,18 @@
 ## Networking Basics:
-[Cybrary Network+](https://www.cybrary.it/course/comptia-network-plus/) course.
+Complete [Cybrary Network+](https://www.cybrary.it/course/comptia-network-plus/) course.
 
-|---------|
-| a | b|
+- OSI,TCP/IP model
+- TCP / UDP diffrences
+-- HTTP, HTTPS, FTP, Telnet, SSH
+-- Task: Try Putty in linux or SSH in windows
+- Ports definition
+-- [Commonly used ports](http://www.pearsonitcertification.com/articles/article.aspx?p=1868080)
+- DHCP
+- Ping, Tracert
+- Netstat
+- Proxy, VPN and their diffrence
+-- TOR and Proxy chains definitions
 
-* OSI, TCP/IP model
-* IPv4/IPv6
-* Ping, Tracert
-* IP address, Subnetting
-* TCP/ UDP diffrences 
-* DNS, FTP, ARP
 ***
 ## Linux Fundamentals:
 [Cybrary Linux+](https://www.cybrary.it/course/comptia-linux-plus-archive/) course.
