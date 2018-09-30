@@ -1,6 +1,6 @@
 ## Networking Basics:
 
--From the [Cybrary network+ course](https://www.cybrary.it/course/comptia-network-plus/) complete,
+- From the [Cybrary network+ course,](https://www.cybrary.it/course/comptia-network-plus/) complete,
   - Module 1.1, 1.2, 1.3, 1.5, 1.6, 1.7
   - Module 2.3
   - Module 4.1, 4.3, 4.4
