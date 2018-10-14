@@ -39,5 +39,6 @@
 
 ***
 ## Security Fundamentals:
-[Cybrary Security+](https://www.cybrary.it/course/comptia-security-plus/) course.
-- 
+- [Cybrary Security+](https://www.cybrary.it/course/comptia-security-plus/) course.
+- Wireshark
+- Git & GitHub
