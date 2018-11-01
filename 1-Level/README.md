@@ -16,7 +16,7 @@
   - What is Localhost or 127.0.0.1 
 - [Commonly used ports](http://www.pearsonitcertification.com/articles/article.aspx?p=1868080)
 - Ping, Tracert, Netstat commands
-- Proxy, VPN and their diffrence
+- Proxy, VPN and their difference
 - TOR and Proxy chains definitions and why to use them
 
 ***
